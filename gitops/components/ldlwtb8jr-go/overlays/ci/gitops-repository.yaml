@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ldlwtb8jr-go-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/ldlwtb8jr-go-gitops
